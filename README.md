@@ -1,13 +1,15 @@
 # HousingRentPricesAnalysis
 
-    This repo is an analysis based on San Francisco housing data. It creates aggregations by years and nieghborhoods, visualizes data on interactive charts and suggests geospatial analysis, to find properties in San Francisco market that are viable investment opportunities.
+This repo is an analysis based on San Francisco housing data. It creates aggregations by years and nieghborhoods, 
+visualizes data on interactive chart and suggests geospatial analysis, to find properties in San Francisco market 
+that are viable investment opportunities.
     
     The analysis consists of following parts:
     
 * Calculates and plots the housing units per year.
 
     ![A screenshot depicts an example of the resulting bar chart.](Images/zoomed-housing-units-by-year.png)
-    
+    Cancel changes
 * Calculates and plots the average prices per square foot.
 
     ![A screenshot depicts an example of the resulting plot.](Images/avg-sale-px-sq-foot-gross-rent.png)
@@ -44,11 +46,12 @@ To use the Housing/Rent Prices Analysis clone the repository, open it with Jupyt
 
 
 ## Contributors
-
-        UC Berkley
+    Nara Arakelyan
+    n_arakel@yahoo.com
+        
 ---
 ## License
 
-
+    UC Berkley
     
 
