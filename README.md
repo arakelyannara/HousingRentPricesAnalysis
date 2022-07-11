@@ -1,4 +1,4 @@
-    ![](Images/6_image.png)
+![](Images/6_image.png)
 
 # HousingRentPricesAnalysis
 
