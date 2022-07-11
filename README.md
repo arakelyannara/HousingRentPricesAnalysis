@@ -1,3 +1,5 @@
+ ![](Images/6_image.png)
+
 # HousingRentPricesAnalysis
 
 This repo is an analysis based on San Francisco housing data. It creates aggregations by years and nieghborhoods, 
